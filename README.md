@@ -13,3 +13,7 @@ Perkenalkan nama saya Rafi Athallah Kurniawan, disini saya membuat sebuah projec
 - day.csv dan hour.csv : file dataset yang digunakan dalam proyek ini dengan format .csv
 
 - requirements.txt : file yang berisi requirements library untuk menjalankan dashbosrd menggunakan streamlit
+
+## Run Streamlit App
+streamlit run dashboard.py
+
